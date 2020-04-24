@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Aco Painting",
-    "currentPage": "html.html",
+    "currentPage": "Index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1341,7 +1341,7 @@
         }
       ]
     },
-    "html.html": {
+    "Index.html": {
       "settings": {
         "main": true,
         "title": "Home",
