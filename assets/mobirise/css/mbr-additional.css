@@ -1915,25 +1915,6 @@ section.lazy-placeholder:after {
 .cid-rX3adH0PQm .mbr-section-btn {
   color: #ffffff;
 }
-.cid-rXbXmODhFo {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #263248;
-}
-@media (min-width: 992px) {
-  .cid-rXbXmODhFo .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rXbXmODhFo .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-rXbXmODhFo .mbr-text {
-  color: #ffffff;
-  text-align: left;
-}
 .cid-rX66Tctjnt {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -1956,6 +1937,25 @@ section.lazy-placeholder:after {
 }
 .cid-rX66Tctjnt .card-title {
   color: #ffffff;
+}
+.cid-rXbXmODhFo {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #263248;
+}
+@media (min-width: 992px) {
+  .cid-rXbXmODhFo .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rXbXmODhFo .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rXbXmODhFo .mbr-text {
+  color: #ffffff;
+  text-align: left;
 }
 .cid-rX3gGspwkK {
   padding-top: 30px;
