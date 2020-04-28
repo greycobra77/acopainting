@@ -1060,6 +1060,27 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-rXpmGJRz01 {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ff9800;
+}
+.cid-rXpmGJRz01 P {
+  color: #767676;
+}
+.cid-rXpmOgtE8u {
+  background: #263248;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rXpmOgtE8u .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rXpmOgtE8u .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rX7il7Z5cL .navbar {
   background: #000000;
   transition: none;
