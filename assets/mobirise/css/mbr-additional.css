@@ -3062,19 +3062,6 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-rY3UlZXbmt {
-  background: #263248;
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.cid-rY3UlZXbmt .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-rY3UlZXbmt .video-block {
-    width: 100% !important;
-  }
-}
 .cid-rXFk6GIIES {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -3106,6 +3093,19 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 768px) {
   .cid-rXFlv4FlnH .video-block {
+    width: 100% !important;
+  }
+}
+.cid-rY3UlZXbmt {
+  background: #263248;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rY3UlZXbmt .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rY3UlZXbmt .video-block {
     width: 100% !important;
   }
 }
