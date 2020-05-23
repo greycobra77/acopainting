@@ -457,12 +457,12 @@
           "_once": false,
           "_params": {
             "slides__autoplay": "true",
-            "slides__autoplayInterval": 4000,
+            "slides__autoplayInterval": "2000",
             "slides__showBullets": false,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/armor-2-596x599.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -483,7 +483,7 @@
                 "image": "@PROJECT_PATH@/assets/images/bathroom2-596x597.png",
                 "active": false,
                 "showButtons": false,
-                "showText": true,
+                "showText": false,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -493,14 +493,14 @@
                 "alt": "",
                 "title": "",
                 "textTitle": "IMAGE SLIDE",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/kitchen21-593x594.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -803,7 +803,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/warehouse2-599x601.png",
+                "image": "@PROJECT_PATH@/assets/images/workcomplete017.jpg.w300h2251-300x225.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -822,7 +822,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/workcomplete017.jpg.w300h2251-300x225.jpg",
+                "image": "@PROJECT_PATH@/assets/images/warehouse2-599x601.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
