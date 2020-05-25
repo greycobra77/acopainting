@@ -1060,6 +1060,25 @@ section.lazy-placeholder:after {
 .cid-rX66Tctjnt .card-title {
   color: #ffffff;
 }
+.cid-s01zRljXwA {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #263248;
+}
+@media (min-width: 992px) {
+  .cid-s01zRljXwA .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s01zRljXwA .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-s01zRljXwA .mbr-text {
+  color: #ffffff;
+  text-align: center;
+}
 .cid-rXbXmODhFo {
   padding-top: 30px;
   padding-bottom: 30px;
