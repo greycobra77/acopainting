@@ -2540,19 +2540,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/workcomplete035.jpg.w300h2251-300x225.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/workcomplete035.jpg.w300h2251-300x225-300x225.jpg",
-                "alt": "Commercial painting and water proofing",
-                "title": "Commercial painting",
-                "customStyle1": "display-7",
-                "caption": "Commercial painting and water proofing",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/exterior-595x583.png",
                 "thumb": "@PROJECT_PATH@/assets/images/exterior-595x583-595x583.png",
                 "alt": "Commercial painting and pressure cleaning",
@@ -2560,6 +2547,19 @@
                 "customStyle1": "display-7",
                 "caption": "Commercial painting and pressure cleaning",
                 "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/workcomplete035.jpg.w300h2251-300x225.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/workcomplete035.jpg.w300h2251-300x225-300x225.jpg",
+                "alt": "Commercial painting and water proofing",
+                "title": "Commercial painting",
+                "customStyle1": "display-7",
+                "caption": "Commercial painting and water proofing",
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -2611,6 +2611,32 @@
                 "title": "Residential Home painting",
                 "customStyle1": "display-7",
                 "caption": "Exterior pressure cleaning and painting",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/new-1019x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/new-1019x1024-800x804.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Classic Floridian Home",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/new2-868x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/new2-868x1024-800x944.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Guest Home",
                 "active": false
               }
             ]
