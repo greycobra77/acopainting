@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Aco Painting",
-    "currentPage": "index.html",
+    "currentPage": "html.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2546,7 +2546,7 @@
                 "title": "Warehouse",
                 "customStyle1": "display-7",
                 "caption": "Commercial painting and pressure cleaning",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -2624,20 +2624,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Classic Floridian Home",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/new2-868x1024.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/new2-868x1024-800x944.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Guest Home",
-                "active": false
+                "active": true
               }
             ]
           }
@@ -6265,6 +6252,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Pressure cleaning and painting of roof",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/new2-868x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/new2-868x1024-800x944.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Pressure Cleaned Guest Home",
                 "active": false
               }
             ]
