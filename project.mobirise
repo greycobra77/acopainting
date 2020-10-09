@@ -2743,6 +2743,19 @@
                 "customStyle1": "display-7",
                 "caption": "Exterior Painting and Pressure CLeaning",
                 "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-08-at-3.12.19-pm-1024x457.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-08-at-3.12.19-pm-1024x457-800x357.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Exterior Painting",
+                "active": false
               }
             ]
           }
