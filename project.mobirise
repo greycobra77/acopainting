@@ -2741,7 +2741,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Exterior Painting and Pressure CLeaning",
+                "caption": "Exterior Painting and Pressure Cleaning",
                 "active": true
               },
               {
@@ -2755,6 +2755,32 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Exterior Painting",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-30-at-3.17.10-pm-1-1024x887.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-30-at-3.17.10-pm-1-1024x887-800x693.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Exterior Painting",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-30-at-3.17.10-pm-985x970.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-30-at-3.17.10-pm-985x970-800x788.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Exterior Painting and Pressure Cleaning",
                 "active": false
               }
             ]
@@ -6553,6 +6579,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Backyard walkway pressure wash",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/fence-770x592.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fence-770x592-770x592.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Pressure washed fence",
                 "active": false
               }
             ]
