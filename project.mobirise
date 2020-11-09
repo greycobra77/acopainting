@@ -2782,6 +2782,45 @@
                 "customStyle1": "display-7",
                 "caption": "Exterior Painting and Pressure Cleaning",
                 "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/door-1005x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/door-1005x1024-800x815.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Electrostatic Painting",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-11-08-at-9.06.01-am-1024x1003.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-11-08-at-9.06.01-am-1024x1003-800x784.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Front door electrostatic painting",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-11-08-at-9.06.01-am-1-737x890.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-11-08-at-9.06.01-am-1-737x890-737x890.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Exterior Fence Electrostatic",
+                "active": false
               }
             ]
           }
